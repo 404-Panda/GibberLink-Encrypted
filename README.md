@@ -200,9 +200,3 @@ Acknowledgments
 Built with Python, NumPy, Cryptography, and OpenSSL.
 
 Inspired by retro modem communication and secure messaging protocols.
-
-Notes
-The README assumes the scripts are named GibberLinkGenerate.py and GibberLinkDecoder.py as provided.
-Audio playback issues are explicitly noted, referencing your VM’s shared sound card problems.
-The decoder’s limitation on symmetric key handling is highlighted, with a mention of future automation.
-
